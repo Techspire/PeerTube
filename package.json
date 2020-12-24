@@ -15,13 +15,13 @@
     "peertube": "dist/server/tools/peertube.js"
   },
   "author": {
-    "name": "Chocobozzz",
-    "email": "chocobozzz@framasoft.org",
-    "url": "http://github.com/Chocobozzz"
+    "name": "TechSpire",
+    "email": "info@framasoft.co",
+    "url": "http://github.com/Techspire"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Chocobozzz/PeerTube.git"
+    "url": "git+https://github.com/Techspire/PeerTube.git"
   },
   "typings": "*.d.ts",
   "scripts": {
